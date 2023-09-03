@@ -1,0 +1,254 @@
+.product-details {
+  margin-top: 100px !important;
+}
+
+.product-details-info {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+.product-details-info h6 {
+  margin-bottom: 20px !important;
+}
+
+.similar-products .card {
+  background-color: rgba(128, 128, 128, 0.097);
+  width: 18rem;
+}
+
+.similar-products .card-name-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.similar-products .card-price {
+  color: green;
+  font-weight: bold;
+}
+.similar-products button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.similar-products .card-text {
+  color: rgb(90, 89, 89);
+}
+
+.similar-products .card img:hover {
+  transform: scale(0.9);
+}
+
+.similar-products .card-img-top {
+  height: 300px !important;
+}
+
+/* Add this CSS to your ProductDetailsStyles.css or any other stylesheet you are using */
+
+Review Section .review-section {
+  margin-top: 20px;
+}
+
+.review-item {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-item h6 {
+  margin: 0;
+  font-weight: bold;
+}
+
+.review-item p {
+  margin: 5px 0;
+}
+
+/* Add this CSS to your ProductDetailsStyles.css or any other stylesheet you are using */
+
+/* Add this CSS to your ProductDetailsStyles.css or any other stylesheet you are using */
+
+/* Review Form */
+/* .review-form {
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.review-form h3 {
+  margin: 0 0 20px;
+}
+
+.review-form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.review-form input[type="text"],
+.review-form textarea,
+.review-form select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-form textarea {
+  resize: vertical;
+}
+
+.review-form button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #f0c14b;
+  color: #111;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.review-form button:hover {
+  background-color: #d1a045;
+} */
+/* Add this CSS to your ProductDetailsStyles.css or any other stylesheet you are using */
+
+/* Review Section */
+.review-section {
+  margin-top: 20px;
+}
+
+.review-item {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-item h6 {
+  margin: 0;
+  font-weight: bold;
+}
+
+.review-item p {
+  margin: 5px 0;
+}
+
+/* Review Form */
+.review-form {
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.review-form h3 {
+  margin: 0 0 20px;
+}
+
+.review-form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.review-form input[type="text"],
+.review-form textarea,
+.review-form select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-form textarea {
+  resize: vertical;
+}
+
+.review-form button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #f0c14b;
+  color: #111;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.review-form button:hover {
+  background-color: #d1a045;
+}
+
+/* Additional styles for rating input */
+.rating-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.rating-label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.rating-number {
+  width: 50px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Additional styles for review section */
+.review-section {
+  margin-top: 20px;
+}
+
+.review-heading {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.review-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.review-item {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.review-item h6 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.review-item .rating-stars {
+  color: #f0c14b;
+  margin-bottom: 10px;
+}
+
+.review-item p {
+  margin: 5px 0;
+}
